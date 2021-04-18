@@ -1,0 +1,13 @@
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.AssemblyInfoInputs.cache
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.AssemblyInfo.cs
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.csproj.CoreCompileInputs.cache
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.exe
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.deps.json
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.runtimeconfig.json
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.runtimeconfig.dev.json
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.dll
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\bin\Debug\netcoreapp3.1\BlockShemFunction.pdb
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.csprojAssemblyReference.cache
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.dll
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.pdb
+D:\08_Programming\!_LessonsCSharp\02_Алгоритмы\Lesson_01\BlockShemFunction\obj\Debug\netcoreapp3.1\BlockShemFunction.genruntimeconfig.cache
